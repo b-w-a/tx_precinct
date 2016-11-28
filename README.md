@@ -1,6 +1,6 @@
 # Pedraza & Wilcox-Archuleta MC
 
-These are the precinct level returns used to generate results. All results are unofficial. 
+These are the precinct level returns used to generate results.
 
 The 2016 data are used to make most of the plots and run the EI analysis.  
 
